@@ -1,11 +1,11 @@
-// Copyright 2020
-// Use of
-// licences
+// Copyright 2020 yangml6
+// Use of test ipc communication
+// licences 
 
 /*
-Package&&
+write on 2020.7.22
 
-you can also visit
+you can also read book named The Go Programming Language
  */
 package main
 
